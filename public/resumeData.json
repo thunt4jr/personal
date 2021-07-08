@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name": "Terry Hunt",
+    "occupation": "Full-Stack Developer",
+    "description": "My greatest passion is in web development on the front-end and back-end. I also have great knowledge in SEO, Graphic Design, Marketing, and Information Technology",
+    "image": "profilepic.jpg",
+    "bio1": "I am a father of two children who I adore very much.",
+    "bio2": "I have a long-term understanding of technologies with a passion for learning new things. First, I started as a hardcore gamer with popular games in the 1990’s, when gaming clans and guilds were forming for matches and raids over the LAN network. My favorite games were Duke Nukem and Half-Life. During my middle school years, I saw an opportunity to learn how to design websites with Microsoft FrontPage, SWiSH Max, and Adobe Flash. Then, during high school, I was enrolled to take Web Design and Development, Visual Basic, QBasic, and C++ classes. I am also self-taught on how to manage Linux dedicated servers, Half-Life Dedicated gaming servers, mostly Counterstrike servers, and how to sell IRC. This is when I have found my passion in Computer Science and Programming.",
+    "bio3": "In 2016, two years after marrying my wife, she asked me what did I want to do in my professional career? I decided to obtain a bachelor’s in Computer Science. My wife has encouraged and supported me to complete my education. In 2017, I graduated from Rasmussen College, now known as Rasmussen University, with my associate’s degree in Science - Software Application Developer. In 2021, I graduated from St. Petersburg College with my bachelor’s degree in Applied Science - Technology Development & Management.",
+    "bio4": "During 2008 to 2013, I was a freelancer working small gigs on web development, and database imports from drop shippers for WooCommerce, Prestashop, OpenCart, and several other eCommerce Platforms. Then in 2013, I created Whoa Website, LLC as a full-time business as SEO for theme development, system backup, web hosting, security updates, newsletter communications, graphic designing, and web designing. Unfortunately, 2020 took a hard hit on my clients and my business during the COVID-19 pandemic. Sadly, I was forced to dissolve my business as a result.",
+    "bio5": "However, losing my company has gave me the most incredible opportunity to focus and complete my education, and obtain my bachelor’s degree. I give my most enormous thanks to my wife Rebekah for supporting me and encouraging me to complete my education.",
+    "contactmessage": "Send me a message!",
+    "email": "hello@terryhunt.dev",
+    "phone": "(813) 359-1477",
+    "address": {
+      "city": "Hudson",
+      "state": "Florida"
+    },
+    "website": "https://terryhunt.dev",
+    "resumedownload": "https://terryhunt.dev/terry-hunts-resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/terry-l-hunt-jr/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/thunt4jr",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "The skills that I have learn over time with mixture of self-taught and college. I am always looking for ways to improve my skills and learn more.",
+    "education": [
+      {
+        "school": "St. Pete College",
+        "degree": "Bachelor of Applied Science",
+        "graduated": "May 2021",
+        "description": "Studied in Technology Management & Developer - Software Development"
+      },
+      {
+        "school": "St. Pete College",
+        "degree": "Associate in Arts",
+        "graduated": "December 2020",
+        "description": "General Studies classes"
+      },
+      {
+        "school": "Rasmussen College",
+        "degree": "Associate of Science",
+        "graduated": "September 2017",
+        "description": "Software Application Development in C++"
+      }
+    ],
+    "work": [
+      {
+        "company": "Whoa Website, LLC.",
+        "title": "Web Designer - Owner - Server Administrator",
+        "years": "August 2013 - December 2020",
+        "description": "Design more than 200 client's website using WordPress - WooCommerce, Prestashop, Shopify, OpenCart, Magento and other CMS depending on customer's choice. Provide automated web hosting management for more than 50 clients, including updates on theme, plugins, and CMS. Analyze, resolve, and troubleshoot CMS or hosting issues. Operate and manage dedicated server on Linix and Windows."
+      },
+      {
+        "company": "Westgate Baptist Church",
+        "title": "System Administrator",
+        "years": "August 2012 - August 2014",
+        "description": "Solely responsible for ensuring all desktop and servers located on all three-building campus continued to run smoothly and were configured to provide proper security protections. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "95%"
+      },
+      {
+        "name": "SEO",
+        "level": "100%"
+      },
+      {
+        "name": "Dreamweaver",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "PHP",
+        "level": "60%"
+      },
+      {
+        "name": "eCommerce",
+        "level": "95%"
+      },
+      {
+        "name": "CMS",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "20%"
+      }
+
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "It's a Deaf Thing - Deaf Expo",
+        "category": "Website for the Deaf Expo to help promote Deaf Business Owners",
+        "image": "its-a-deaf-thing.png",
+        "url": "https://itsadeafthing.com"
+      },
+      {
+        "title": "Reefmaker",
+        "category": "Reefmaker in need of a website soon as possible since previous hosting lost their main website.",
+        "image": "reefmaker.png",
+        "url": "https://reefmaker.com/"
+      },
+      {
+        "title": "John Farr - Artist Website",
+        "category": "Website I built for John Farr for his artwork.",
+        "image": "jfjon.png",
+        "url": "https://jfjon.com"
+      },
+      {
+        "title": "Sonbeam VdC",
+        "category": "Christian Website with WordPress, MailChimp, and many other features",
+        "image": "sonbeamvdc.png",
+        "url": "https://sonbeamvdc.org"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "As a friend, I have seen Terry Hunt show great interpersonal skills. He is friendly and outgoing. His work ethic is strong and he will complete whatever task he's asked to do, on time and with excellence.",
+        "user": "David Lind - iSign Ministries"
+      },
+      {
+        "text": "Terry Hunt is my website developer, he keeps it running, updates and manages my payment systems. He has been working with me for two years.",
+        "user": "Michael Herman - SB Reef Lights"
+      },
+      {
+        "text": "I've known Terry for a while through mutual social connections. He's funny, up-beat, and pleasant to be around. When we've talked about technology, he's always come across as knowledgeable, and motivated to grow in knowledge and skill.",
+        "user": "Bill Bliss - Manager, Web Programming and Support at St. Petersburg College"
+      }
+    ]
+  }
+}
