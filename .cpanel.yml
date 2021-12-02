@@ -2,4 +2,7 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/huntyerrt04/public_html/
-    - /bin/cp -R images $DEPLOYPATH
+        - /bin/cp <file_name> $DEPLOYPATH
+        - /bin/cp /<sub_folder>/<file_name> $DEPLOYPATH 
+        - /bin cp * $DEPLOYPATH 
+        - /bin cp /<sub_folder>/* $DEPLOYPATH 
